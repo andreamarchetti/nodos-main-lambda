@@ -1,4 +1,4 @@
 exports.handler = async (event) => {
     // TODO implement
-    return 'First commit ok!'
+    return 'Second commit ok!'
 };
